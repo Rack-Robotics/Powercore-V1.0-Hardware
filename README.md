@@ -23,7 +23,7 @@ This repository contains KiCAD projects for EDM Motherboard [23.04.20] and EDM P
 
 Clone the repository using the following command:
 
-git clone https://github.com/rack-robotics/powercore-firmware.git
+git clone https://github.com/rack-robotics/powercore-v1-hardware.git
 
 ## Contributing
 We welcome contributions to this project. If you've found a bug or have a feature request, please open an issue. If you would like to improve the firmware, please fork the repository and create a pull request.
