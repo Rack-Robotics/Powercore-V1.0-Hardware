@@ -6,6 +6,9 @@ This repository contains the hardware and electronics CAD for Rack Robotics's Po
 
 The Rack Robotics's Powercore V1 is a transistor-capacitor hybrid EDM power supply unit. The Powercore creates, maintains, and monitors electrical sparks in an EDM machine. It is designed to be affordable and hackable.
 
+[Morlock's YouTube Video](https://www.youtube.com/watch?v=5CeCxkFVCdM)
+[Original Kickstarter](https://www.kickstarter.com/projects/rackrobotics/powercore-cut-through-solid-metal-with-edm)
+
 ## Installation
 
 Clone the repository using the following command:
