@@ -29,4 +29,4 @@ git clone https://github.com/rack-robotics/powercore-firmware.git
 We welcome contributions to this project. If you've found a bug or have a feature request, please open an issue. If you would like to improve the firmware, please fork the repository and create a pull request.
 
 ## License
-This software is released by Rack Robotics, Inc. under the Creative Commons CC-BY-SA 2.0 license.
+This software is released by Rack Robotics, Inc. under the Creative Commons CC BY-NC 4.0 license.
