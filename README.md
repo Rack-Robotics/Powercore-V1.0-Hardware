@@ -12,6 +12,13 @@ The Rack Robotics's Powercore V1 is a transistor-capacitor hybrid EDM power supp
 
 This repository contains KiCAD projects for EDM Motherboard [23.04.20] and EDM PCB Resistor [23.05.03]. As well as STEP and Fusion 360 archive files of the physical power supply. STLs and other files for 3D printer are on the [Rack Robotics printables](https://www.printables.com/@RackRoboticsO_631255/models).
 
+![Motherboard Schematic](https://github.com/Rack-Robotics/Powercore-V1-Hardware/blob/main/EDM%20Motherboard%20Schematic%20%5B23.04.20%5D.png)
+
+![Motherboard Layers](https://github.com/Rack-Robotics/Powercore-V1-Hardware/blob/main/EDM%20Motherboard%20Board%5B23.04.20%5D.png)
+
+![Resistor Layers](https://github.com/Rack-Robotics/Powercore-V1-Hardware/blob/main/EDM%20PCB%20Resistor%20Board%20%5B23.05.03%5D.png)
+
+
 ## Installation
 
 Clone the repository using the following command:
