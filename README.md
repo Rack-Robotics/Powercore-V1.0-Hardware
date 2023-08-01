@@ -10,6 +10,8 @@ The Rack Robotics's Powercore V1 is a transistor-capacitor hybrid EDM power supp
 
 [Original Kickstarter](https://www.kickstarter.com/projects/rackrobotics/powercore-cut-through-solid-metal-with-edm)
 
+This repository contains KiCAD projects for EDM Motherboard [23.04.20] and EDM PCB Resistor [23.05.03]. As well as STEP and Fusion 360 archive files of the physical power supply. STLs and other files for 3D printer are on the [Rack Robotics printables](https://www.printables.com/@RackRoboticsO_631255/models).
+
 ## Installation
 
 Clone the repository using the following command:
